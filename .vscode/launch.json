@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "name": "C++ Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "targetArchitecture": "x86_64",
+            "program": "${workspaceRoot}/main",
+            "internalConsoleOptions": "openOnSessionStart",
+            "logging": {
+                "moduleLoad": true,
+                "programOutput": true,
+                "trace": false
+            },
+            "showDisplayString": false,
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceRoot}/",
+            "environment": [],
+            "externalConsole": true
+        }
+    ]
+}
