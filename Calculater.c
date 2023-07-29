@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <conio.h>
-#include <windows.h>
+// #include <conio.h>
+// #include <windows.h>
 float sum(float a, float b);
 float subtract(float a, float b);
 float multiply(float a, float b);
